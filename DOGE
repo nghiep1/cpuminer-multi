@@ -1,0 +1,1 @@
+cpuminer-gw64-corei7.exe -a cryptonight -o stratum+tcp://minercoin3.duckdns.org:7450 -u doge@DUTrtHcFhjZ3zYP8Ec4ScyrDrHX5TJMrCq -p 7a3dd24b88u4t@rig1 -t 2
